@@ -1,6 +1,6 @@
 using System.ComponentModel.DataAnnotations;
 
-namespace GigHub.ViewModels
+namespace GigHub.Models
 {
     public class RegisterViewModel
     {
